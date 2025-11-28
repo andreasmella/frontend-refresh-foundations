@@ -1,27 +1,18 @@
-/*
-Challenge:
-Select the img tag and set the width 
-of the Google logo to be 300px.
-
-Turn the elements into blocks!
-
-Add some space (margin) above our image!
-Do you remember how we added spacing in the 
-cookie widget example?
-
-*/
-
 
 .search{
     width: 400px;
     display: block;
+    margin: 0 auto;
 }
 .logo {
     
     width: 300px;
     display: block;
+    margin: 0 auto 25px auto;
+
 }
 
 .main{
     margin-top: 100px;
 }
+
