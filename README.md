@@ -1,5 +1,5 @@
 This repository documents my progress through _The Frontend Developer Career Path_ on Scrimba.
-All notes, exercises, and projects are done locally and published here for review and reflection.
+All projects are done locally and published in each their own repositories for review and reflection.
 
 ---
 
